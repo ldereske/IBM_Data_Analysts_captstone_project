@@ -1,2 +1,5 @@
 #CSVs 
 *.csv
+
+#excel files
+*.xlsx
